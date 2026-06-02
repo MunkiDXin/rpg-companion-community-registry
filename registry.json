@@ -1672,5 +1672,16 @@
     "github_repo": "kzh6r28bft-droid/oozekin-helianas",
     "repo_url": "https://kzh6r28bft-droid.github.io/oozekin-helianas/",
     "has_system": false
+  },
+  {
+    "name": "The-Brew",
+    "description": "homebrew, monsters, spells",
+    "tags": [
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "MunkiDXin/The-Brew",
+    "repo_url": "https://MunkiDXin.github.io/The-Brew/",
+    "has_system": false
   }
 ]
